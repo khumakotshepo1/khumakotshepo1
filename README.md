@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khumakotshepo1" alt="khumakotshepo1" /></a> </p>
 
-- 🔭 I’m currently working on [About Vibes website](https://github.com/khumakotshepo1/dihlabeng.org.za.git)
+- 🔭 I’m currently working on [Visionarytheo payslips website](https://github.com/khumakotshepo1/visionarytheopayslips.org.za.git)
 
 - 🌱 I’m currently learning **c++**
 
-- 👨‍💻 All of my projects are available at [visionarytheo.co.za](visionarytheo.co.za)
+- 👨‍💻 All of my projects are available at [teetee.co.za](teetee.co.za)
 
 - 💬 Ask me about **React, Django, Springboot**
 
 - 📫 How to reach me **khumakotshepo1@gmail.com**
 
-- 📄 Know about my experiences [resume.visionarytheo.co.za](resume.visionarytheo.co.za)
+- 📄 Know about my experiences [resume.teetee.co.za](resume.teetee.co.za)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
